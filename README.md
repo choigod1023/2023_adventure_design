@@ -1,5 +1,7 @@
 # 2023 어드벤처디자인 — RC카를 이용한 C-ITS 구현
 
+**한국어** · [日本語](README.ja.md) · [English](README.en.md)
+
 동국대학교 전자전기공학부 **2023학년도 2학기 어드벤처디자인** 기말 프로젝트.
 Flask 신호 서버 · WiFi 신호등 노드 · nRF24L01 무선 링크 · 자율 주행 RC카를 엮어 **C-ITS(Cooperative Intelligent Transport System, 차세대 지능형 교통체계)** 의 V2I(차량-인프라) 협력 주행을 소형 하드웨어로 재현한 작품입니다.
 
